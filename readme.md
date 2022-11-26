@@ -56,7 +56,9 @@ Una vez descargado nos aparecerá la imagen de arriba, pulsamos finish y acabamo
 
 Para descargar **cent OS** es mas fácil que windows 10, puesto que solo necesitaremos descargar la imagen ISO del siguiente  [enlace](https://www.centos.org/download/)
 
-![](img/cent.png)
+![](img/Cent.png)
+
+
 
 
 
