@@ -112,6 +112,8 @@ Iniciaremos la máquina virtual de windows 10, seleccionando dicha máquina y pu
 
 ![](img/wind1.png)
 
+
+
 Una vez iniciado, nos saldrá la imagen superior, despues de cargar continuaremos con el proceso.
 
 Aparecerá la siguiente imagen, esperaremos a que acabe de cargar y continuaremos el proceso.
