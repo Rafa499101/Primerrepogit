@@ -62,6 +62,10 @@ Para descargar **cent OS** es mas fácil que windows 10, puesto que solo necesit
 
 
 
+
+
+
+
 Seleccionamos la opción señalada, nos llevará a seleccionar un mirror.
 
 ![](img/CentB.png)
