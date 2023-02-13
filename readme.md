@@ -118,7 +118,7 @@ Instalaremos los sistemas operativos en las diferentes máquinas que hayamos cre
 
 Iniciaremos la máquina virtual de windows 10, seleccionando dicha máquina y pulsando el boton **iniciar**
 
-![](img/wind1.png)
+![](img/img20.png)
 
 
 
@@ -128,29 +128,35 @@ Una vez iniciado, nos saldrá la imagen superior, despues de cargar continuaremo
 
 Aparecerá la siguiente imagen, esperaremos a que acabe de cargar y continuaremos el proceso.
 
-![](img/wind2.png)
+![](img/img21.png)
 
 Una vez termina de cargar se reiniciará la máquina y continuamos con el proceso.
 
-![](img/wind4.png)
+![](img/img22.png)
 
 Una vez termina de reiniciar saldrá la siguiente pantalla, esta tardará unos minutos, despues de esto empezerá el proceso de instalación de características.
 
 
 
-![](img/wind6.png)
+![](img/img23.png)
 
 El proceso durará unos minutos, una vez acabado saldrá la siguiente pantalll.
 
-![](img/wind7.png)
+![](img/img24.png)
 
 Ya queda poco para acabar, iniciaremos por primera vez el sistema, el primer inicio será un poco largo ya que el sistema terminará de instalar los últimos elementos.
 
-![](img/wind8.png)
+![](img/img25.png)
 
 Una vez termine de instalar los últimos procesos ya tendremos instalado el sistema, cada vez que queramos entrar no tendremos nada mas que seleccionar la máquina y pulsar el botón iniciar.
 
-![](img/wind9.png)
+!![](img/img26.png))
+
+
+
+![](img/img27.png)
+
+![](img/img28.png)
 
 ### Cent OS ###
 
